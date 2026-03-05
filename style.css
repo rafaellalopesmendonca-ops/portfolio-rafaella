@@ -64,10 +64,9 @@ nav a:hover::after{
 }
 
 
-section{
-  padding:120px 0;
+section {
+  padding: 60px 0; 
 }
-
 
 section:first-of-type{
   margin-top:60px;
@@ -123,12 +122,12 @@ section:first-of-type{
   box-shadow:0 10px 30px rgba(0,0,0,0.15);
 }
 
-/* SOBRE */
+
 #sobre .container{
   max-width:800px;
 }
 
-/* EXPERIÊNCIA */
+
 #portfolio{
   background:#f5f5f5;
 }
